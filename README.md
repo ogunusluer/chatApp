@@ -1,2 +1,2 @@
-# chatApp
+# NodeJS ChatAPP
 basic chatapp
